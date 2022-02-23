@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Hey! This is my home page where you can find some general and maybe interesting information about who I am.
